@@ -1,2 +1,2 @@
-module week1epam {
+class week1epam {
 }
